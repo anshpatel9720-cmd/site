@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://anshpatel.qwikfix.co.in/sitemap.xml
